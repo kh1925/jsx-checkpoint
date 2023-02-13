@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsx-checkpoint/static/css/main.31d6cfe0.css",
+    "main.js": "/jsx-checkpoint/static/js/main.390e8753.js",
+    "static/media/leorio.jpg": "/jsx-checkpoint/static/media/leorio.4455b2bbbfe9ee675f7d.jpg",
+    "index.html": "/jsx-checkpoint/index.html",
+    "main.390e8753.js.map": "/jsx-checkpoint/static/js/main.390e8753.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.390e8753.js"
+  ]
+}
